@@ -1,2 +1,2 @@
 # profit
-This is a workingspace for learning!
+This is a workingspace for learning together!
